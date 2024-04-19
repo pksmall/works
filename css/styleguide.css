@@ -1,0 +1,81 @@
+:root { 
+  --black: #000000;
+  --dove-gray: #6c6c6c;
+  --eerie-black: #1f1f1f;
+  --gallery: #f0f0f0;
+  --gray: #828181;
+  --hint-of-red: #f9f9f9;
+  --mine-shaft: #323232;
+  --mine-shaft-2: #333333;
+  --storm-dust: #656565;
+  --suva-gray: #878787;
+  --bnt-hover: #eaeaea;
+  --bnt-overlap: #929292;
+  --white: #ffffff;
+ 
+  --font-size-l: 18px;
+  --font-size-m: 16px;
+  --font-size-s: 14px;
+  --font-size-xl: 20px;
+  --font-size-xxl: 32px;
+  --font-size-xxxl: 40px;
+  --font-size-xxxxl: 50px;
+ 
+  --font-family-montserrat: "Montserrat", Helvetica;
+}
+
+.montserrat-normal-black-16px {
+  color: var(--black);
+  font-family: var(--font-family-montserrat);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.montserrat-normal-eerie-black-16px {
+  color: var(--eerie-black);
+  font-family: var(--font-family-montserrat);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.montserrat-normal-suva-gray-16px {
+  color: var(--suva-gray);
+  font-family: var(--font-family-montserrat);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.montserrat-normal-dove-gray-16px {
+  color: var(--dove-gray);
+  font-family: var(--font-family-montserrat);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.montserrat-normal-gray-14px {
+  color: var(--gray);
+  font-family: var(--font-family-montserrat);
+  font-size: var(--font-size-s);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.montserrat-medium-eerie-black-18px {
+  color: var(--eerie-black);
+  font-family: var(--font-family-montserrat);
+  font-size: var(--font-size-l);
+  font-style: normal;
+  font-weight: 500;
+}
+
+.montserrat-semi-bold-storm-dust-16px {
+  color: var(--storm-dust);
+  font-family: var(--font-family-montserrat);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 600;
+}
